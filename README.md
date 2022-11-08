@@ -6,6 +6,7 @@ Uploaded for research purposes and so we can develop IoT and such.
 See "ForumPost.txt" or [ForumPost.md](ForumPost.md) for the post in which it
 leaks, if you want to know how it is all set up and the likes.
 
+Here we put the PKDGA implementation in the dga file and replace the DGA module in resolv.c with PKDGA.
 ## Requirements
 * gcc
 * golang
