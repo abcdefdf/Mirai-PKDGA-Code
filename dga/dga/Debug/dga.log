@@ -1,0 +1,7 @@
+﻿  dga.c
+C:\Users\sxy\Desktop\Mirai-Source-Code-master\dga\dga\dga.c(7,27): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\sxy\Desktop\Mirai-Source-Code-master\dga\dga\dga.c(15,12): warning C4047: “return”:“char *”与“int”的间接级别不同
+C:\Users\sxy\Desktop\Mirai-Source-Code-master\dga\dga\dga.c(6,7): warning C4101: “ch”: 未引用的局部变量
+C:\Users\sxy\Desktop\Mirai-Source-Code-master\dga\dga\dga.c(5,6): warning C4101: “flag”: 未引用的局部变量
+C:\Users\sxy\Desktop\Mirai-Source-Code-master\dga\dga\dga.c(92,8): warning C4013: “system”未定义；假设外部返回 int
+  dga.vcxproj -> C:\Users\sxy\Desktop\Mirai-Source-Code-master\dga\Debug\dga.exe
